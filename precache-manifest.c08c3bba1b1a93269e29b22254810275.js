@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "048d94ddb8f9ad35de61dec5d9e9c9a6",
+    "revision": "d4f242ab4aa62f95edc8557bb5668ba4",
     "url": "/adso-proyecto-final/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adso-proyecto-final/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "1c214ab2a1ed8f662f1e",
+    "revision": "1f480ee1d582c6195d9a",
     "url": "/adso-proyecto-final/static/css/main.01d1b81a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adso-proyecto-final/static/js/2.be62162c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1c214ab2a1ed8f662f1e",
-    "url": "/adso-proyecto-final/static/js/main.3f25a676.chunk.js"
+    "revision": "1f480ee1d582c6195d9a",
+    "url": "/adso-proyecto-final/static/js/main.dd550f40.chunk.js"
   },
   {
     "revision": "4a4185d4c712fde7f914",

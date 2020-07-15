@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/adso-proyecto-final/precache-manifest.4359b69e6f250ccbfb87c21f59405090.js"
+  "/adso-proyecto-final/precache-manifest.c08c3bba1b1a93269e29b22254810275.js"
 );
 
 self.addEventListener('message', (event) => {
