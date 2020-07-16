@@ -10,6 +10,11 @@ p {
     color: #999;
 }
 
+code {
+    display: block;
+    color: var(--black-800);
+}
+
 a,
 a:hover,
 a:focus {
