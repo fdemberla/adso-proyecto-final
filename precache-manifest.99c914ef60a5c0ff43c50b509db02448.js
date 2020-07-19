@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7c2d85af62046d4379ba15a8b8f2f6a5",
+    "revision": "38ba524802ee8ac67930f1dc645bbdd3",
     "url": "/adso-proyecto-final/index.html"
   },
   {
-    "revision": "d47e3362dfd76d607e1b",
+    "revision": "22564f4e8be89755aa35",
     "url": "/adso-proyecto-final/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "08e1ef8bd556bc40df5d",
-    "url": "/adso-proyecto-final/static/css/main.9635baef.chunk.css"
+    "revision": "0a9060e8b7e4b09a5345",
+    "url": "/adso-proyecto-final/static/css/main.f2c9ad8e.chunk.css"
   },
   {
-    "revision": "d47e3362dfd76d607e1b",
-    "url": "/adso-proyecto-final/static/js/2.09780262.chunk.js"
+    "revision": "22564f4e8be89755aa35",
+    "url": "/adso-proyecto-final/static/js/2.a3efe75a.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/adso-proyecto-final/static/js/2.09780262.chunk.js.LICENSE.txt"
+    "url": "/adso-proyecto-final/static/js/2.a3efe75a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "08e1ef8bd556bc40df5d",
-    "url": "/adso-proyecto-final/static/js/main.21f014c6.chunk.js"
+    "revision": "0a9060e8b7e4b09a5345",
+    "url": "/adso-proyecto-final/static/js/main.5e8605aa.chunk.js"
   },
   {
     "revision": "4a4185d4c712fde7f914",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "703a50b5fcf7ffc894e9449f8047bc12",
     "url": "/adso-proyecto-final/static/media/1.703a50b5.PNG"
+  },
+  {
+    "revision": "b7bbd9b3307635b3bd2ef7bf8630e651",
+    "url": "/adso-proyecto-final/static/media/1.b7bbd9b3.png"
   },
   {
     "revision": "cf9ccf948bb2925a1b38ade05c26a671",
@@ -184,6 +188,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adso-proyecto-final/static/media/5.ce25fe15.png"
   },
   {
+    "revision": "f50e4cb52a8df625c5750bfc19f624a3",
+    "url": "/adso-proyecto-final/static/media/5.f50e4cb5.png"
+  },
+  {
     "revision": "466728954054b3b27bb10019e3b9a05b",
     "url": "/adso-proyecto-final/static/media/6.46672895.png"
   },
@@ -198,5 +206,37 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "284b328e92f857c2d43d35e652799634",
     "url": "/adso-proyecto-final/static/media/9.284b328e.png"
+  },
+  {
+    "revision": "7917cb94cd1969d4898c6032c913d3df",
+    "url": "/adso-proyecto-final/static/media/Eliminar.7917cb94.PNG"
+  },
+  {
+    "revision": "79e3f414684172761887df7051337270",
+    "url": "/adso-proyecto-final/static/media/mkdir1.79e3f414.PNG"
+  },
+  {
+    "revision": "f2b1318542d73a8c609af7b3ef3d9025",
+    "url": "/adso-proyecto-final/static/media/mkdir2.f2b13185.PNG"
+  },
+  {
+    "revision": "0b1d5f70dbeed905773a65e1f8068eef",
+    "url": "/adso-proyecto-final/static/media/renombrar.0b1d5f70.PNG"
+  },
+  {
+    "revision": "8bea3fa2852657737509f43211d41a6b",
+    "url": "/adso-proyecto-final/static/media/rmdir1.8bea3fa2.PNG"
+  },
+  {
+    "revision": "d5ba73ad604c66241e43fe933143df59",
+    "url": "/adso-proyecto-final/static/media/rmdir2.d5ba73ad.PNG"
+  },
+  {
+    "revision": "5422d9a776a2074d99421339d5345348",
+    "url": "/adso-proyecto-final/static/media/touch1.5422d9a7.PNG"
+  },
+  {
+    "revision": "c69ae141f1578158c6cc93afe1715d59",
+    "url": "/adso-proyecto-final/static/media/touch2.c69ae141.PNG"
   }
 ]);
