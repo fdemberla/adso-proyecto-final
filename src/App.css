@@ -11,7 +11,14 @@ p {
 }
 
 code {
-  color: var(--black-800);
+    top: -1px;
+    padding: 4px 4px 2px;
+    display: inline-block;
+    line-height: 1;
+    color: rgba(142,157,174,.85);
+    background-color: #def4ff;
+    color: #191e24;
+    padding: .5rem 1rem;
 }
 
 a,

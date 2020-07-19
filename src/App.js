@@ -22,6 +22,8 @@ import Permisos from "./Paginas/Permisos/Permisos";
 
 import Paquetes from "./Paginas/Paquetes/Paquetes";
 
+import Archivos from "./Paginas/Archivos/Archivos";
+
 const usuarios = [
   {
     id: 1,
@@ -91,7 +93,6 @@ const grupos = [
 function App() {
   const [showUsuarios, setUsuarios] = useState(false);
   const [showGrupos, setGrupos] = useState(false);
-  const [showArchivos, setArchivos] = useState(false);
   const [showPaquetes, setPaquetes] = useState(false);
 
   return (
@@ -166,9 +167,17 @@ function App() {
                 </NavLink>
               </button>
             </li>
-            <div className="sidebar-header">
-              <h5>Archivos</h5>
-            </div>
+            <li>
+              <button className="btn sidebar-header btn-block text-white">
+                <NavLink
+                  className="btn btn-purple text-white"
+                  activeClassName="btn btn-info"
+                  to="/archivos"
+                >
+                  <h5>Archivos</h5>
+                </NavLink>
+              </button>
+            </li>
             <li>
               <NavLink
                 onClick={() => setPaquetes(!showPaquetes)}
@@ -187,19 +196,22 @@ function App() {
             <Route exact path="/">
               <Instalacion />
             </Route>
-            <Route path="/permisos">
+            <Route exact path="/permisos">
               <Permisos />
             </Route>
-            <Route path="/paquetes">
+            <Route exact path="/paquetes">
               <Paquetes />
             </Route>
+            <Route exact path="/archivos">
+                  <Archivos />
+            </Route>
             {usuarios.map((route) => (
-              <Route key={route.id} path={route.to}>
+              <Route key={route.id} exact path={route.to}>
                 {route.componente}
               </Route>
             ))}
             {grupos.map((route) => (
-              <Route key={route.id} path={route.to}>
+              <Route key={route.id} exact path={route.to}>
                 {route.componente}
               </Route>
             ))}
